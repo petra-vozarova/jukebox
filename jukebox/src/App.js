@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import $ from 'jquery';
+
 const colors=['lightsalmon','darsalmon', 'salmon','lightcolar','lightyellow','lightgoldenrodyellow', 'papayawhip','moccasin', 'khaki',
   'greenyellow', 'lightgreen', 'palegreen','limegreen', 'lightcyan', 'paleturquoise', 'cadetblue', 'powderblue',
   'steelblue','skyblue', 'plum', 'mediumpurple', 'orchid', 'pink', 'ivory', 'azure', 'gainsboro', 'rosybrown',
@@ -111,3 +112,5 @@ const backColor2=colors[Math.floor(Math.random()*colors.length)]
 $("html").css("background-image", 'linear-gradient(to left top,' + backColor + ', ' + backColor2+ ')');
 $('html').css('background-repeat', 'no-repeat');
 $('html').css('background-size', '100% 100%');
+
+//$('console').css('background-image', 'url(/jukebox.jpg)')

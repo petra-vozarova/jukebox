@@ -4,13 +4,7 @@ html, body{
   padding: 0;
 }
 
-@media screen and (min-width: 1500px) {
-  #console{
-    width: 25%;
-   }
-}
-
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1300px) {
   #container{
     width: 100%;
     margin: 1em 0;
@@ -19,7 +13,7 @@ html, body{
     width: 100%;
   }
   #console{
-    max-width: 100%;
+    max-width: 90%;
     min-width: 75%;
    }
   #message{
@@ -34,7 +28,7 @@ html, body{
 
 #console{
   background-size: cover;
-  background-image: url('/img/jukebox.jpg');
+  background-image: url('jukebox.jpg');
   z-index: 100;
   margin: 15em auto;
   min-height: 40em;
