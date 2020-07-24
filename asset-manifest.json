@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jukebox/static/css/main.39c00ce2.chunk.css",
+    "main.css": "/jukebox/static/css/main.2fedf48d.chunk.css",
     "main.js": "/jukebox/static/js/main.c8437b3b.chunk.js",
     "main.js.map": "/jukebox/static/js/main.c8437b3b.chunk.js.map",
     "runtime-main.js": "/jukebox/static/js/runtime-main.c35e8540.js",
@@ -8,16 +8,16 @@
     "static/js/2.ffaf70b8.chunk.js": "/jukebox/static/js/2.ffaf70b8.chunk.js",
     "static/js/2.ffaf70b8.chunk.js.map": "/jukebox/static/js/2.ffaf70b8.chunk.js.map",
     "index.html": "/jukebox/index.html",
-    "precache-manifest.3adb5632c268c9eb4d298061e29d193d.js": "/jukebox/precache-manifest.3adb5632c268c9eb4d298061e29d193d.js",
+    "precache-manifest.d436a29d18aa5289178e03d0a5a4345d.js": "/jukebox/precache-manifest.d436a29d18aa5289178e03d0a5a4345d.js",
     "service-worker.js": "/jukebox/service-worker.js",
-    "static/css/main.39c00ce2.chunk.css.map": "/jukebox/static/css/main.39c00ce2.chunk.css.map",
+    "static/css/main.2fedf48d.chunk.css.map": "/jukebox/static/css/main.2fedf48d.chunk.css.map",
     "static/js/2.ffaf70b8.chunk.js.LICENSE.txt": "/jukebox/static/js/2.ffaf70b8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/jukebox/static/media/jukebox.e3ac6518.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c35e8540.js",
     "static/js/2.ffaf70b8.chunk.js",
-    "static/css/main.39c00ce2.chunk.css",
+    "static/css/main.2fedf48d.chunk.css",
     "static/js/main.c8437b3b.chunk.js"
   ]
 }

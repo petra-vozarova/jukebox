@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "388cc152f08d374d953b9063924050b3",
+    "revision": "261bf41aac18f8a4023f8828182a91e0",
     "url": "/jukebox/index.html"
   },
   {
-    "revision": "0b021c3e15f53b7fac25",
-    "url": "/jukebox/static/css/main.39c00ce2.chunk.css"
+    "revision": "73b45f2414337c519a58",
+    "url": "/jukebox/static/css/main.2fedf48d.chunk.css"
   },
   {
     "revision": "d6b9e56e68c6b7feae10",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jukebox/static/js/2.ffaf70b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b021c3e15f53b7fac25",
+    "revision": "73b45f2414337c519a58",
     "url": "/jukebox/static/js/main.c8437b3b.chunk.js"
   },
   {
