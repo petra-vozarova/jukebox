@@ -82,7 +82,7 @@ const Display = (props) => <div id="display"></div>;
 const App = () => {
   return (
     <div id="container">
-      <div id="drum-machine">
+  
         <div id="console">
           <div id="message">
             <Display />
@@ -100,7 +100,7 @@ const App = () => {
           </div>
         </div>
       </div>
-    </div>
+
   );
 };
 
