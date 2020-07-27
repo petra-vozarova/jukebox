@@ -39,13 +39,13 @@ class Drum extends React.Component {
   }
 
   componentDidMount() {
-    document.addEventListener("keypress", this.onClick);
+    document.addEventListener("keypress", this.onPress);
   }
   onPress(e) {
     let indexClicked = keys.indexOf(e.code.substr(3, 1));
     if (indexClicked !== -1) {
       document.getElementById(e.code.substr(3, 1)).play();
-      document.getElementById("display").innerHTML = this.props.id;
+      document.getElementById("display").innerHTML = description[indexClicked];
     }
   }
   onClick(e) {
@@ -55,8 +55,6 @@ class Drum extends React.Component {
 
   render() {
     function getColor(){
-      console.log(colors.length+ 'length')
-      console.log(Math.floor(Math.random() * colors.length))
       return colors[Math.floor(Math.random() * colors.length)]
     }
     
