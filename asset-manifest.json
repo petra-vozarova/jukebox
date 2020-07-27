@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jukebox/static/css/main.6e07397e.chunk.css",
-    "main.js": "/jukebox/static/js/main.9d3bacd5.chunk.js",
-    "main.js.map": "/jukebox/static/js/main.9d3bacd5.chunk.js.map",
+    "main.css": "/jukebox/static/css/main.9b6fce7a.chunk.css",
+    "main.js": "/jukebox/static/js/main.5a20e444.chunk.js",
+    "main.js.map": "/jukebox/static/js/main.5a20e444.chunk.js.map",
     "runtime-main.js": "/jukebox/static/js/runtime-main.c35e8540.js",
     "runtime-main.js.map": "/jukebox/static/js/runtime-main.c35e8540.js.map",
     "static/js/2.ffaf70b8.chunk.js": "/jukebox/static/js/2.ffaf70b8.chunk.js",
     "static/js/2.ffaf70b8.chunk.js.map": "/jukebox/static/js/2.ffaf70b8.chunk.js.map",
     "index.html": "/jukebox/index.html",
-    "precache-manifest.c2f45ccc88839bb4a94ec37918698be5.js": "/jukebox/precache-manifest.c2f45ccc88839bb4a94ec37918698be5.js",
+    "precache-manifest.ecef6b852c056bed16400c5929989c4b.js": "/jukebox/precache-manifest.ecef6b852c056bed16400c5929989c4b.js",
     "service-worker.js": "/jukebox/service-worker.js",
-    "static/css/main.6e07397e.chunk.css.map": "/jukebox/static/css/main.6e07397e.chunk.css.map",
+    "static/css/main.9b6fce7a.chunk.css.map": "/jukebox/static/css/main.9b6fce7a.chunk.css.map",
     "static/js/2.ffaf70b8.chunk.js.LICENSE.txt": "/jukebox/static/js/2.ffaf70b8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/jukebox/static/media/jukebox.e3ac6518.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c35e8540.js",
     "static/js/2.ffaf70b8.chunk.js",
-    "static/css/main.6e07397e.chunk.css",
-    "static/js/main.9d3bacd5.chunk.js"
+    "static/css/main.9b6fce7a.chunk.css",
+    "static/js/main.5a20e444.chunk.js"
   ]
 }
