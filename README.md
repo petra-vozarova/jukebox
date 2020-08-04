@@ -24,7 +24,7 @@ Dimensions of the app are automatically adjusted depending on the device's scree
 
 ## Local Deployment
 
-To run the application locally, please download the source code from: [GitHub Source Code](https://github.com/petra-vozarova/pomodoro-app)
+To run the application locally, please download the source code from: [GitHub Source Code](https://github.com/petra-vozarova/jukebox)
 
 
 ###  Prerequisites
