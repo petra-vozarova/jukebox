@@ -11,24 +11,24 @@ const colors=['lightsalmon','darsalmon', 'salmon','lightcolar','lightyellow','li
 const keys = ["Q", "W", "E", "A", "S", "D", "Z", "X", "C"];
 const description = [
   "Funky Fun",
-  "Mixin' Music",
+  "Hey Listen!",
   "A wee bit lost..",
   "Golden Gold",
   "Chorus Hi-Ya",
   "Hey!",
   "Hat",
-  "Bebop",
+  "Good Vibes",
   "Scratch"
 ];
 const audio = [
   "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/Children/271[kb]this-is-fun.wav.mp3",
-  "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/Children/221[kb]are_you_done_mixing_yet.aif.mp3",
+  "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/Children/17[kb]hey-listen.mp3.mp3",
   "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/Donald%20Trump%20Construction%20Kit/210[kb]trump-I-Dont-Know-what-I-said.wav.mp3",
   "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/Donald%20Trump%20Construction%20Kit/174[kb]trump-Im-Really-Rich.wav.mp3",
   "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/African%20Vocals%20Sung/225[kb]chorus-hi-ya-heh.wav.mp3",
   "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/African%20Vocals%20Sung/160[kb]male-eehh-yah-man.wav.mp3",
   "https://dl.dropbox.com/s/xctkeh5mpqx5bog/Hat.mp3?dl=0",
-  "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/MALE%20SINGING/200[kb]bebop_lick.aif.mp3",
+  "https://sampleswap.org/samples-ghost/VOCALS%20and%20SPOKEN%20WORD/Rastafarian/127[kb]i_feel_good.wav.mp3",
   "https://dl.dropbox.com/s/wsxn9ktn0ykrxoa/Scratch.mp3?dl=0"
 ];
 class Drum extends React.Component {
